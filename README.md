@@ -1,5 +1,7 @@
 # lol-champions-app
 
+<img src="https://user-images.githubusercontent.com/87580996/215336173-2952768b-4ab3-4f03-b778-75d5bc601660.png" alt="screenshot" style="height:400px;"/>
+
 ## About
 
 This project consists of a Go API that uses web scraping to retrieve all champions of the game League of Legends from the site mobalitycs and a Flutter application that makes a request to this API to retrieve this data and display it to the user.
