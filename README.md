@@ -1,6 +1,8 @@
 # lol-champions-app
 
-<img src="https://user-images.githubusercontent.com/87580996/215336173-2952768b-4ab3-4f03-b778-75d5bc601660.png" alt="screenshot" style="height:400px;"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87580996/216095974-ddc4f9b4-ce40-4a6e-a375-166cfefe5796.png" alt="screenshot" style="height:400px;"/>
+</p>
 
 ## About
 
